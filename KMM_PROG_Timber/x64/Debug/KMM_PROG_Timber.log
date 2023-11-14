@@ -1,0 +1,9 @@
+﻿  KMM_PROG_Timber.cpp
+E:\AluCiclesGS1\KMM 1r\PROG\KMM_PROG_Timber\KMM_PROG_Timber\KMM_PROG_Timber.cpp(132,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+E:\AluCiclesGS1\KMM 1r\PROG\KMM_PROG_Timber\KMM_PROG_Timber\KMM_PROG_Timber.cpp(358,35): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\KMM 1r\PROG\KMM_PROG_Timber\KMM_PROG_Timber\KMM_PROG_Timber.cpp(399,35): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\KMM 1r\PROG\KMM_PROG_Timber\KMM_PROG_Timber\KMM_PROG_Timber.cpp(500,31): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\KMM 1r\PROG\KMM_PROG_Timber\KMM_PROG_Timber\KMM_PROG_Timber.cpp(503,18): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\KMM 1r\PROG\KMM_PROG_Timber\KMM_PROG_Timber\KMM_PROG_Timber.cpp(547,19): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\KMM 1r\PROG\KMM_PROG_Timber\KMM_PROG_Timber\KMM_PROG_Timber.cpp(574,18): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  KMM_PROG_Timber.vcxproj -> E:\AluCiclesGS1\KMM 1r\PROG\KMM_PROG_Timber\x64\Debug\KMM_PROG_Timber.exe
